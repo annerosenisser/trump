@@ -7,3 +7,5 @@ config.py
 .git
 .idea
 .Rproj.user
+
+collectR.R

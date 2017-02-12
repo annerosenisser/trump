@@ -9,3 +9,5 @@ config.py
 .Rproj.user
 
 collectR.R
+
+.httr-oauth
